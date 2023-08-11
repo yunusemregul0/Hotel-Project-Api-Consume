@@ -1,0 +1,7 @@
+entity oluştur->Data Acces Layer migration ekle->
+Business layer manager ve Abstract oluştur.->
+Program.cs te geç->Web Api Controllerda Geç->Web UI tarafında geç->View Componet geç
+->View geç shared oluştur->shared partial ekledikten sonra DTO oluştu mapping ekle
+->Frontend Dto geç ve api yönlendirmesini yap->sonrasında ilgili partial viewde modeli al
+
+->Admin Paneli için 
