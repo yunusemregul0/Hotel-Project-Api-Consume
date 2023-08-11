@@ -5,11 +5,6 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Frontend", "Frontend", "{96497E1F-D216-49C5-8B42-6C98F43A1FE0}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ToDoList", "ToDoList", "{62000C1C-6411-4148-9B7B-C8F6B0745E0D}"
-	ProjectSection(SolutionItems) = preProject
-		TextFile1.txt = TextFile1.txt
-	EndProjectSection
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HotelProject.WebUI", "Frontend\HotelProject.WebUI\HotelProject.WebUI.csproj", "{9A056CBA-0FCE-4BBF-8268-2513619F45A9}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ApiConsume", "ApiConsume", "{D4E94CB1-B76C-46D9-81C5-34F0EF6670F7}"

@@ -1,5 +1,7 @@
-﻿using HotelProject.WebUI.Dtos.BookingDto;
+﻿using HotelProject.EntityLayer.Concrete;
+using HotelProject.WebUI.Dtos.BookingDto;
 using HotelProject.WebUI.Dtos.SubscribeDto;
+using HotelProject.WebUI.ViewComponents.Booking;
 using Microsoft.AspNetCore.Mvc;
 using Newtonsoft.Json;
 using System.Text;
@@ -36,5 +38,7 @@ namespace HotelProject.WebUI.Controllers
             await client.PostAsync("http://localhost:5196/api/Booking", stringContent);
             return RedirectToAction("Index", "Default");
         }
+
+        
     }
 }
